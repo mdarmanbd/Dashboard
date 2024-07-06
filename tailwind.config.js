@@ -7,13 +7,8 @@ export default {
   theme: {
     extend: {
       colors:{
-        colorBase : '#ff2b85',
-        midnightBlue : '#040D12',
-        charcoal : '#333333',
-        raspberryPink : '#e21b70',
-        lightPink : '#fcf1f6',
-        mediumGray : '#7d7d7d',
-        lightGray : '#7d7d7d',
+        colorCarcol: '#DC3434',
+        
       },
       width:{
         45 : '45%',
