@@ -4,7 +4,6 @@ import { ref } from 'vue';
 import Home from '../components/Home.vue';
 import Accounts from '../components/Accounts.vue';
 import Dashboard from '../components/Dashboard.vue';
-import Expenses from '../components/Expenses.vue';
 import Settings from '../components/Settings.vue';
 import Summary from '../components/Summary.vue';
 import Wallets from '../components/Wallets.vue';
@@ -27,11 +26,6 @@ const routes = [
         component:Dashboard
     },
 
-    {
-        path:'/Expenses',
-        component:Expenses
-    },
-   
     {
         path:'/Settings',
         component:Settings

@@ -10,7 +10,12 @@ export default {
         colorCarcol: '#DC3434',
         colorPrimary: '#262A41',
         colorSecondary: '#101010',
+        lightGray : '#F9FAFC',
+        lightBlack : '#273240',
         
+      },
+      fontFamily: {
+        avenir: ['Avenir', 'sans-serif'],
       },
       width:{
         45 : '45%',
