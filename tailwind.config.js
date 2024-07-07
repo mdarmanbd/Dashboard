@@ -8,6 +8,8 @@ export default {
     extend: {
       colors:{
         colorCarcol: '#DC3434',
+        colorPrimary: '#262A41',
+        colorSecondary: '#101010',
         
       },
       width:{

@@ -9,7 +9,7 @@ const login = () => {
 </script>
 
 <template>
-    <div class="bg-black pt-16 pb-44 mx-20 ">
+    <div class="bg-black pt-16 pb-10 mx-20 ">
         <!--- profile start---->
         <div class="relative w-28">
             <img class="w-16 h-16 " src="../images/Profile.png" alt="profile png">
