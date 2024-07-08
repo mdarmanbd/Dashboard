@@ -27,7 +27,7 @@ const login = () => {
 
         <!--- main sidebar start ---->
        <div class="mt-20 space-y-5">
-            <router-link to="/Dashboard" class="text-white opacity-30 text-2xl font-semibold block">
+            <router-link to="/dashboard" class="text-white opacity-30 text-2xl font-semibold block">
                 Dashboard
             </router-link>
 
@@ -35,19 +35,19 @@ const login = () => {
                 Expenses
             </router-link>
 
-            <router-link to="/Wallets" class="text-white opacity-30 text-2xl font-semibold block">
+            <router-link to="/wallets" class="text-white opacity-30 text-2xl font-semibold block">
                 Wallets
             </router-link>
 
-            <router-link to="/Summary" class="text-white opacity-30 text-2xl font-semibold block">
+            <router-link to="/summary" class="text-white opacity-30 text-2xl font-semibold block">
                 Summary
             </router-link>
 
-            <router-link to="/Accounts" class="text-white opacity-30 text-2xl font-semibold block">
+            <router-link to="/accounts" class="text-white opacity-30 text-2xl font-semibold block">
                 Accounts
             </router-link>
 
-            <router-link to="/Settings" class="text-white opacity-30 text-2xl font-semibold block">
+            <router-link to="/settings" class="text-white opacity-30 text-2xl font-semibold block">
                 Settings
             </router-link>
        </div>

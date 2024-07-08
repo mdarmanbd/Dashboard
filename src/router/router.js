@@ -17,27 +17,27 @@ const routes = [
     },
 
     {
-        path:'/Accounts',
+        path:'/accounts',
         component:Accounts
     },
 
     {
-        path:'/Dashboard',
+        path:'/dashboard',
         component:Dashboard
     },
 
     {
-        path:'/Settings',
+        path:'/settings',
         component:Settings
     },
 
     {
-        path:'/Summary',
+        path:'/summary',
         component:Summary
     },
 
     {
-        path:'/Wallets',
+        path:'/wallets',
         component:Wallets
     }
 ]

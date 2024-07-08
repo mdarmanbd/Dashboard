@@ -4,13 +4,14 @@
 </script>
 
 <template>
-    <!---- grocery section start  ---->
+    <!---- grocery start  ---->
     <div class="flex justify-between items-center border-b border-b-gray-300 pb-1.5">
         <h3 class="text-lg font-normal font-avenir text-black">
             Today
         </h3>
         <img class="cursor-pointer" src="../svg/threeDot.svg">
     </div>
+
     <div class="pt-6 mb-12">
         <div class="flex items-start justify-between">
             <div class="flex items-start">
@@ -76,15 +77,16 @@
             </h4>
         </div>
     </div>
-    <!---- grocery section end  ---->
+    <!---- grocery end  ---->
     
-    <!---- food & drink section start  ---->
+    <!---- food & drink start  ---->
     <div class="flex justify-between items-center border-b border-b-gray-300 pb-1.5">
         <h3 class="text-lg font-normal font-avenir text-black">
             Monday, 23 March 2020
         </h3>
         <img class="cursor-pointer" src="../svg/threeDot.svg">
     </div>
+
     <div class="flex items-start justify-between mt-6">
         <div class="flex items-start">
             <div class="w-12 h-12 bg-red-500 rounded-full grid place-items-center">
@@ -106,6 +108,7 @@
             -156.000
         </h4>
     </div>
+
     <div class="flex items-start justify-between mt-6">
         <div class="flex items-start">
             <div class="w-12 h-12 bg-green-500 rounded-full grid place-items-center">
@@ -127,7 +130,7 @@
             -35.200
         </h4>
     </div>
-    <!---- food & drink section start  ---->
+    <!---- food & drink start  ---->
 </template>
 
 
